@@ -1,0 +1,3 @@
+Intructions:
+
+You need to get a database, with the standard distribution of rows. Google it. Mine is bigger than 25 mb.
